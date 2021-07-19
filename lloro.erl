@@ -3,6 +3,6 @@
 speak(Animal) ->
       if
         (Animal == cat) -> miaw;
-        (Animal == dog) -> roofroof;
+        (Animal == dog) -> guauf;
         true -> no_animal
       end.
